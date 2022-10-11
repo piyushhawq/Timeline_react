@@ -1,4 +1,10 @@
 # Timeline_react
+Hosted Link:- https://piyushhawq.github.io/Timeline_react/
+
+Preview of Timeline
+
+![Preview  of Timeline](https://raw.githubusercontent.com/piyushhawq/Images/main/Timeline%20-React.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
